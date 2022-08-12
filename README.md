@@ -5,6 +5,10 @@ This repository is adapted from https://github.com/oarriaga/face_classification
 
 As a class project, we modify some of the codes.
 
+
+## To see all the demos we've done
+Please see folder "face_classification/test_images"
+
 ## Important Instructions to Set the Working Directory
 In each of the ipynb files that you're going to run:
 
