@@ -26,10 +26,15 @@ Please download the google drive folder, upload it to you own google dirve, and 
 
 Google Colab has all of the requirements installed (except scipy==1.2.1, but we have wrote this in the first cell of each ipynb file)
 
-## To download the DataSet:
+## To download the DataSet(if you running code on colab, please ignore this.):
+
+GitHub does not allow size of one file over 25MB. If you running on colab, the dataset fer2013 has already in the right place 
+
 Link: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data?select=example_submission.csv
 
-After downLoad the dataset, copy the csv file inside the ".../face_classification/src/dataset/fer2013" folder.
+After downLoad the dataset zip file "fer2013.tar.gz", extract the csv file "fer2013.csv"
+
+copy the csv file inside the ".../face_classification/src/dataset/fer2013" folder.
 
 It is necessary to do this before you run the code.
 
