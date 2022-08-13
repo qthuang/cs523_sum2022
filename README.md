@@ -34,9 +34,11 @@ Link: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expr
 
 After downLoad the dataset zip file "fer2013.tar.gz", extract the csv file "fer2013.csv"
 
-copy the csv file inside the ".../face_classification/src/dataset/fer2013" folder.
+put the csv file inside the ".../face_classification/src/dataset/fer2013" folder.
 
 It is necessary to do this before you run the code.
+
+However we still recommend to download the entire folder from googld drive, and then put into colab directly.
 
 Then follow the instructions below:
 
