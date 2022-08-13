@@ -26,6 +26,13 @@ Please download the google drive folder, upload it to you own google dirve, and 
 
 Google Colab has all of the requirements installed (except scipy==1.2.1, but we have wrote this in the first cell of each ipynb file)
 
+## To download the DataSet:
+Link: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data?select=example_submission.csv
+
+After downLoad the dataset, put the csv file inside the ".../face_classification/src/dataset" folder.
+
+It is necessary to do this before you run the code.
+
 Then follow the instructions below:
 
 
